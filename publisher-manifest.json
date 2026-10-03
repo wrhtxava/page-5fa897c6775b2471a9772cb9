@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b8c5518bee932f4536420d56",
+  "owner": "wrhtxava",
+  "repo": "page-5fa897c6775b2471a9772cb9",
+  "title": "飞鸟",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5fa897c6775b2471a9772cb9",
+      "a": "飞鸟",
+      "b": "",
+      "entity": "飞鸟",
+      "brand": "飞鸟",
+      "separator": "",
+      "path": "index.html",
+      "hash": "12e8d8a2d6f37c5c083b865df7351015395db160a78ac28404dfe17234c5c8f1",
+      "content": {
+        "keyword1": "飞鸟",
+        "keyword2": "",
+        "primary_entity": "飞鸟",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞鸟是提供机场订阅与VPN网络加速的品牌。本页说明飞鸟套餐、使用场景、多平台客户端选择与操作步骤，并集中提供官方下载指引与常见问题。",
+          "AI_DESCRIPTION": "飞鸟是提供机场订阅与VPN网络加速的品牌。本页说明飞鸟套餐、使用场景、多平台客户端选择与操作步骤，并集中提供官方下载指引与常见问题。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--purple:#6d28d9;--purple-dark:#5b21b6;--purple-light:#ede9fe;--gray:#f3f4f6;--text:#1e1b4b;--white:#fff;--border:#e5e7eb;}html,body{margin:0;padding:0;overflow-x:hidden;max-width:100%;}body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:var(--gray);color:var(--text);line-height:1.65;font-size:17px;}a{color:var(--purple);text-decoration:none;}a:hover{text-decoration:underline;}.wrap{max-width:1080px;margin:0 auto;padding:0 16px;}header{background:var(--purple-dark);color:#fff;padding:14px 0;}.nav{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;}.brand{font-size:1.35rem;font-weight:700;letter-spacing:.04em;}nav a{color:#fff;margin-left:10px;font-size:.95rem;}main{padding:24px 0 48px;}h1{font-size:1.85rem;margin:0 0 12px;line-height:1.3;color:#fff;}h2{font-size:1.45rem;color:var(--purple-dark);margin:32px 0 16px;padding-bottom:8px;border-bottom:3px solid var(--purple-light);}h3{font-size:1.15rem;margin:16px 0 8px;color:#4c1d95;}.hero{background:#5b21b6;color:#fff;padding:28px 20px;border-radius:10px;margin-bottom:24px;}.hero p{margin:0 0 12px;}.stagger{display:flex;flex-wrap:wrap;gap:20px;margin:20px 0;align-items:stretch;}.stagger.reverse{flex-direction:row-reverse;}.panel{flex:1 1 280px;background:var(--white);padding:22px;border-radius:10px;border:1px solid var(--border);}.plans{display:flex;flex-wrap:wrap;gap:16px;}.plan{flex:1 1 240px;background:#fff;border:1px solid var(--border);border-radius:10px;padding:20px;}.plan.featured{border:2px solid var(--purple);background:var(--purple-light);}.price{font-size:1.6rem;font-weight:700;color:var(--purple);}.annual{font-size:.9rem;color:#4b5563;margin:4px 0 12px;}ul.feat{padding-left:18px;margin:8px 0;}.clients{display:flex;flex-wrap:wrap;gap:12px;}.client{flex:1 1 140px;background:#fff;border:1px solid var(--border);padding:16px;text-align:center;border-radius:8px;}.client strong{display:block;color:var(--purple-dark);margin-bottom:6px;}details{background:#fff;border:1px solid var(--border);border-radius:8px;padding:12px 16px;margin:10px 0;}summary{font-weight:600;color:var(--purple-dark);}details p{margin:8px 0 0;}.cta{display:inline-block;background:var(--purple);color:#fff;padding:10px 18px;border-radius:6px;margin:6px 8px 0 0;}.cta-alt{background:#fff;color:#5b21b6;}.adbox{background:#4c1d95;color:#f5f3ff;padding:16px;border-radius:8px;margin:16px 0;}footer{background:#1e1b4b;color:#e5e7eb;padding:28px 0;font-size:.92rem;}footer a{color:#ddd6fe;}footer h3{color:#fff;margin:0 0 10px;font-size:1.05rem;}.foot-grid{display:flex;flex-wrap:wrap;gap:24px;}.foot-grid>div{flex:1 1 200px;}@media(max-width:700px){.stagger,.stagger.reverse{flex-direction:column;}h1{font-size:1.5rem;}.brand{width:100%;}nav a{margin:4px 8px 4px 0;}}</style><header><div class=\"wrap nav\"><div class=\"brand\">飞鸟</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">教程</a><a href=\"#faq\">问答</a><a href=\"#download\">下载</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>飞鸟官方网站</h1><p>飞鸟提供机场订阅与 VPN 网络加速服务，把跨境办公、流媒体与游戏加速放进可切换的节点池。本站是飞鸟官网介绍页，集中说明套餐、客户端选择、导入步骤与官方下载路径，便于你按设备完成配置。</p><p><a class=\"cta\" href=\"#clients\">前往客户端选择</a><a class=\"cta cta-alt\" href=\"#plans\">查看套餐价格</a></p></section><div class=\"stagger\"><div class=\"panel\"><h2>品牌简介</h2><p>飞鸟是面向个人与小团队的机场订阅品牌，也提供飞鸟 VPN 式的多端加速能力。一次复制订阅链接，即可在 Clash、Shadowrocket、v2rayN 等客户端中更新节点、按场景切换线路。我们把流量、同时在线设备数和线路类型写进套餐，减少含糊承诺。</p><p>节点覆盖常用亚太、北美与欧洲出口。普通线路适合网页与基础流媒体；旗舰版与团队版加入 IPLC 专线，用于对延迟更敏感的游戏和对带宽更敏感的高清播放。请只通过飞鸟官方网站核对价格与教程，避免仿冒下载页。</p></div><div class=\"panel\"><h3>服务要点</h3><ul class=\"feat\"><li>月付与年付机场订阅，流量按周期重置</li><li>Windows、macOS、Android、iOS、Linux 与路由器官方客户端导入</li><li>基础流媒体解锁与旗舰全节点原生解锁分层</li><li>游戏向 IPLC 线路与优先工单（旗舰及以上）</li><li>团队版支持更多设备、高带宽节点与定制路由</li></ul></div></div><h2 id=\"plans\">套餐与价格</h2><p>以下为飞鸟当前固定方案。年付对应页内优惠价。流量含上行与下行，周期内用尽将降速或暂停至下一周期。同时在线数按已握手客户端统计，超出可能挤占最早会话。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">开通与导入说明</a></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#clients\">选择客户端开始</a></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看部署步骤</a></div></div><div class=\"stagger reverse\" id=\"scenes\"><div class=\"panel\"><h2>使用场景</h2><p>飞鸟梯子与机场订阅适合把跨境访问变成可重复使用的工具：选对套餐和客户端后，日常切换节点即可，不必反复寻找临时入口。</p><h3>远程协作</h3><p>跨区视频会、云盘同步和代码托管在拥堵链路上容易卡顿。邻近节点或专线可降低丢包。基础版通常已能覆盖会议与文档，团队版适合多人同时在线。</p><h3>流媒体与资讯</h3><p>基础版覆盖常见音视频平台的基础库。旗舰版强调全节点原生解锁，减少因出口质量导致的片源缺失或清晰度下降。</p></div><div class=\"panel\"><h3>游戏与更新</h3><p>对延迟敏感的对战与客户端更新，可优先使用旗舰版 IPLC 标注线路。仍请遵守各游戏与商店的地区规则，加速只改善链路，不改变账号所属区域。</p><h3>出行与公共网络</h3><p>在酒店、机场等公共 Wi-Fi 下开启客户端，流量经加密隧道与优化出口转发，降低明文嗅探风险，并改善被热点限速的跨境访问。</p><h3>学习与开发</h3><p>文档站点、容器镜像与学术资源需要稳定出口时，订阅制比频繁更换免费工具更省事。工作室可用团队版统一分发订阅并定制分流。</p></div></div><h2 id=\"clients\">客户端选择</h2><p>飞鸟不捆绑单一安装包，而是发放 Clash、Surge、Quantumult 与 sing-box 等兼容的订阅。请按系统挑选客户端，完成该软件自己的官方下载，再粘贴飞鸟订阅。本区是本页重点：选对客户端，比纠结节点名称更重要。</p><div class=\"clients\" id=\"download\"><div class=\"client\"><strong>Windows</strong>Clash Verge 或 v2rayN。更新订阅后开启系统代理或 TUN。</div><div class=\"client\"><strong>macOS</strong>ClashX Meta 或 Surge。菜单栏切换节点，适合笔记本差旅。</div><div class=\"client\"><strong>Android</strong>Clash Meta for Android。授予 VPN 权限，可按应用分流。</div><div class=\"client\"><strong>iOS</strong>Shadowrocket 或 Stash。请从 App Store 获取客户端后再导入。</div><div class=\"client\"><strong>Linux / 网关</strong>Clash、sing-box 或 OpenClash。适合旁路网关与团队共享。</div><div class=\"client\"><strong>订阅格式</strong>Clash YAML 与通用 URI。在用户中心复制，勿公开张贴。</div></div><p>同一订阅可在套餐设备上限内使用。更换电脑或手机前，先在旧设备断开。任何「飞鸟特制加速器安装包」若不是上述主流开源或商店客户端，都不应作为官方下载来源。</p><div class=\"stagger\" id=\"guide\"><div class=\"panel\"><h2>操作说明</h2><h3>一、选购套餐</h3><p>登录飞鸟用户中心，选择基础版、旗舰版或团队版，按月或按年支付。到账后即可看到流量面板与订阅链接。价格以本页标示为准，年付可减少中途断服。</p><h3>二、复制订阅</h3><p>打开订阅页，复制 Clash 或通用链接。该链接等同凭证，泄露后请立即重置。重置后旧配置失效，各客户端需重新更新。</p></div><div class=\"panel\"><h3>三、安装并导入</h3><p>按「客户端选择」安装对应软件。在配置、订阅或 Profile 中粘贴链接并更新。iOS 客户端本身通常需另行购买。导入成功后应看到节点列表而非报错。</p><h3>四、连接与分流</h3><p>日常浏览选邻近地区；流媒体选解锁节点；游戏选 IPLC。建议规则分流：跨境走代理、国内直连。用浏览器打开国际站点确认隧道已生效。</p><h3>五、维护</h3><p>流量将尽时避免大文件；节点异常时先更新订阅再更换线路。旗舰走优先工单，团队联系客户经理调整路由或带宽策略。</p></div></div><h2 id=\"faq\">常见问题</h2><details><summary>飞鸟是什么？和普通加速器有什么不同？</summary><p>飞鸟是机场订阅与 VPN 网络加速品牌，用户通过官方网站了解套餐后，在用户中心获取订阅并导入第三方客户端。与只有单一出口的传统加速器相比，飞鸟可按地区与用途切换节点、批量更新线路，更适合多设备和流媒体、游戏等不同场景。</p></details><details><summary>飞鸟客户端下载应该去哪里？怎样避免装到仿冒软件？</summary><p>本站只推荐 Clash Verge、v2rayN、Clash Meta、Shadowrocket 等已有广泛用户的客户端名称，请到这些软件自己的官网或应用商店完成下载。飞鸟提供的是订阅链接，不是改装安装包。不要信任来历不明的「一键飞鸟客户端」。</p></details><details><summary>基础版、旗舰版和团队版怎么选？流量如何计算？</summary><p>轻度浏览与基础流媒体选基础版（100GB、3 设备）。需要全节点解锁、IPLC 游戏加速和优先工单选旗舰版（300GB、5 设备）。多人共用、高带宽或定制路由选团队版（1000GB、20 设备）。流量统计上行加下行，按套餐周期重置。</p></details><details><summary>导入后连不上，或视频仍提示地区限制怎么办？</summary><p>核对系统时间、客户端是否真正开启 TUN 或系统代理，并更新订阅。更换节点，旗舰用户优先选标注原生解锁或 IPLC 的线路。公司网络若干扰常见协议，可在客户端改用备用传输（若该客户端提供）。仍失败时使用对应套餐的工单通道。</p></details><details><summary>可以多人共用一个飞鸟机场订阅吗？链接泄露怎么处理？</summary><p>可以共用，但不得超过同时在线设备上限。团队版为此设计。切勿把订阅发到公开群。若已泄露，立刻在用户中心重置，旧链接失效后再逐台更新。滥用导致的流量耗尽需自行承担。</p></details><details><summary>如何确认这是飞鸟官方网站？到期未续费会怎样？</summary><p>请核对本页套餐名称、价格与客户端说明是否与用户中心一致，并收藏 canonical 所示官网地址。到期未续费将停止转发；是否保留配置以便续费恢复，以用户中心当时提示为准。年付可降低中断频率。</p></details><section><h2>广告合作</h2><div class=\"adbox\"><p>飞鸟官方网站接受与远程办公、开发工具、安全上网知识相关的文字互换，不放置误导性下载按钮，不伪装成系统更新。合作需求请在用户中心工单标题注明「官网合作」。</p></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot-grid\"><div><h3>网站地图</h3><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐价格</a> · <a href=\"#clients\">客户端下载</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#faq\">常见问题</a></p><p>飞鸟 · 飞鸟机场 · 飞鸟 VPN · 官方下载指引</p></div><div><h3>友情链接</h3><p><a href=\"#\">客户端兼容说明</a></p><p><a href=\"#\">服务状态与公告</a></p><p><a href=\"#\">隐私与使用条款</a></p><p><a href=\"#\">用户中心入口</a></p></div><div><h3>官方说明</h3><p>本页为飞鸟品牌官方网站静态介绍，用于说明机场订阅、加速器使用方式与客户端选择。客户端请走各软件正版渠道，订阅仅在飞鸟用户中心生成。</p><p>© 飞鸟</p></div></div></div></footer>",
+          "hash": "17e06ab4b905c8a7328fe2c127999442d6ecec151647c445b9c902ab33ee8e15",
+          "seo": {
+            "title": "飞鸟官网 | 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "飞鸟,飞鸟机场,飞鸟VPN,飞鸟官网,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载,IPLC游戏加速,流媒体解锁",
+            "description": "飞鸟是提供机场订阅与VPN网络加速的品牌。本页说明飞鸟套餐、使用场景、多平台客户端选择与操作步骤，并集中提供官方下载指引与常见问题。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wabvi.cn",
+    "host": "p-2be1c2afc3.wabvi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "wabvi.cn",
+      "url": "https://wabvi.cn/",
+      "label": "蜂巢",
+      "apex": "wabvi.cn",
+      "kind": null,
+      "identity": "fwudkf/page-3fdddd6d5cc003720bf601ab"
+    },
+    {
+      "host": "aizsai.com",
+      "url": "https://aizsai.com/",
+      "label": "飞鸟",
+      "apex": "aizsai.com",
+      "kind": null,
+      "identity": "efhhynrkm/page-75f8955c2d0c7c5c79ab4c7e"
+    },
+    {
+      "host": "alicenetworkssr.com",
+      "url": "https://alicenetworkssr.com/",
+      "label": "飞鸟",
+      "apex": "alicenetworkssr.com",
+      "kind": null,
+      "identity": "senbtbdyg/page-9b41eb4a4b1fc70ddfd29d55"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9dede1c8672299b43e4b0db56d51501623841a2623b35c4f67fa29b51a47dd71",
+    "sitemap.xml": "1b035ade60530aa6ee154cb9d778d1006ee90df4d187d9c5893001dd0be31470",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "875ddd543e64e23d951b02bd10f2e776845e4c8a5fe43697f08c6ee4041f1010",
+    "robots.txt": "93ee151c6354410602f0a9a2a2fb1163c8e8cc16f534e8dead51b9799e520ec8",
+    "1437ef287f8f250e0c7daf89a0d45e3d.txt": "417dc7fa24431845feb49c720c2f5b623a8e52ac9ba62fa893003681b946030a"
+  },
+  "revision": "a7f8f7ac3122d58960f18b7b5af8d7514f105dfb675ef254f5d7b58ab6ced5d0"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2be1c2afc3.wabvi.cn/sitemap.xml
